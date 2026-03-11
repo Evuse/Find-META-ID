@@ -1,0 +1,5 @@
+{
+  "name": "Facebook Page ID Extractor",
+  "description": "Un tool per estrarre l'ID numerico di una pagina Facebook partendo dalla sua URL.",
+  "requestFramePermissions": []
+}
